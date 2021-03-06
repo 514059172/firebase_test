@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase-tools": "^9.5.0",
+    "glob": "^7.1.6"
+  }
+}
